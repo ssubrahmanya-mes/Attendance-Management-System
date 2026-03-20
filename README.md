@@ -1,2 +1,2 @@
 # Attendance-Management-System
-Attendance Management System using SQL and PHP
+Attendance Management System using  PHP
